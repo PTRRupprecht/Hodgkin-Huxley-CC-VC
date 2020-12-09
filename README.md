@@ -4,6 +4,10 @@ By Peter Rupprecht ( p.t.r.rupprecht+hodgkin+huxley@gmail.com )
 
 The following tutorial shown in the Jupyter Notebook / Colab Notebook was used in an online course for students interested in neurophysiology, as a complementary modeling section for a practical ephys course that involved patch clamp recordings in slices (https://neurotechnology.ethz.ch/education.html, "Electrophysiological Recording Techniques"). It might, however, be interesting for others who want to use minimal code to explore the **membrane dynamics of a simulated point neuron**.
 
+<p align="center">
+  <img width="733" height="391" src="https://github.com/PTRRupprecht/Hodgkin-Huxley-CC-VC/blob/main/HH_examples.png">
+</p>
+
 The tutorial consists of three sections.
 
 1. In the first section, code for a simple leaky integrating neuron is written. This is very close to a leaky-integrate-and-fire neuron model (**LIF neuron**) that is commonly used for network modeling. For the purpose of the course, I live-coded this example from scratch.
